@@ -6,19 +6,52 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="01-consumer" />
-        <module name="01-provider" />
+        <module name="eureka-00" />
+        <module name="eureka-11" />
+        <module name="eureka-provider-01" />
+        <module name="eureka-provider-9300" />
+        <module name="eureka-33" />
+        <module name="eureka-consumer-open-feign" />
+        <module name="zuul-8888" />
+        <module name="eureka-provider-9100" />
+        <module name="eureka-22" />
+        <module name="eureka-consumer-hystrix" />
+        <module name="eureka-provider-9000" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="01-consumer" target="11" />
       <module name="01-provider" target="11" />
+      <module name="eureka-00" target="11" />
+      <module name="eureka-11" target="11" />
+      <module name="eureka-22" target="11" />
+      <module name="eureka-33" target="11" />
+      <module name="eureka-consumer-01" target="11" />
+      <module name="eureka-consumer-hystrix" target="11" />
+      <module name="eureka-consumer-open-feign" target="11" />
+      <module name="eureka-provider-01" target="11" />
+      <module name="eureka-provider-9000" target="11" />
+      <module name="eureka-provider-9100" target="11" />
+      <module name="eureka-provider-9300" target="11" />
+      <module name="zuul-8888" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="01-consumer" options="-parameters" />
       <module name="01-provider" options="-parameters" />
+      <module name="eureka-00" options="-parameters" />
+      <module name="eureka-11" options="-parameters" />
+      <module name="eureka-22" options="-parameters" />
+      <module name="eureka-33" options="-parameters" />
+      <module name="eureka-consumer-01" options="-parameters" />
+      <module name="eureka-consumer-hystrix" options="-parameters" />
+      <module name="eureka-consumer-open-feign" options="-parameters" />
+      <module name="eureka-provider-01" options="-parameters" />
+      <module name="eureka-provider-9000" options="-parameters" />
+      <module name="eureka-provider-9100" options="-parameters" />
+      <module name="eureka-provider-9300" options="-parameters" />
+      <module name="zuul-8888" options="-parameters" />
     </option>
   </component>
 </project>

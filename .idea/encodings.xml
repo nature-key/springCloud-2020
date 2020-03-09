@@ -3,5 +3,17 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/01-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/01-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-00" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-11" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-22" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-33" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-consumer-01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-consumer-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-consumer-open-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-provider-01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-provider-9000" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-provider-9100" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-provider-9300" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul-8888" charset="UTF-8" />
   </component>
 </project>
