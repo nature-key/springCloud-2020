@@ -9,3 +9,4 @@ zuul:
   routes:
     somedepart.serviceId: eureka-provider
     somedepart.path: /cd/**
+  ignored-services: eureka-provider
